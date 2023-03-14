@@ -29,7 +29,7 @@ export default function StartScreen({ navigation }) {
 
       <Button
         mode="outlined"
-        onPress={() => navigation.navigate('Dashboard')}
+        onPress={() => navigation.navigate('Drawer')}
       >
         Guest Login
       </Button>
